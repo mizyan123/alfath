@@ -24,7 +24,15 @@ var xxx=null;
 if(x=="1"){xxx="multimedia-and-hardware-education.html"}
 if(x=="2"){xxx="all-about-laminating-machines.html"}
 if(x=="3"){xxx="how-to-choose-perfect-wi-fi-router.html"}
-if(x=="4"){xxx="the-origin-of-species-and-ico-tin.html"}a_to_ve[i].href="https://www.page.robotbambu.com/2018/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="the-origin-of-species-and-ico-tin.html"}
+if(x=="5"){xxx="6-steps-to-clearer-skin_12.html"}
+if(x=="6"){xxx="5-sensitive-skin-care-tips.html"}
+if(x=="7"){xxx="7-top-foods-to-include-in-your-kids-diet.html"}
+if(x=="8"){xxx="natural-mineral-makeup-3-reasons-why-it.html"}
+if(x=="9"){xxx="dry-skin-care.html"}
+if(x=="10"){xxx="organic-bath-soaps.html"}
+if(x=="11"){xxx="organic-shampoo.html"}
+if(x=="12"){xxx="trampoline-basics.html"}a_to_ve[i].href="https://www.page.robotbambu.com/2018/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
